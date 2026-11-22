@@ -1,0 +1,23 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 临时测试文件
+test.py
+.ipynb_checkpoints/
+
+# 密钥环境文件（密钥放.env里，这个文件不上传）
+.env
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# 日志文件
+*.log
